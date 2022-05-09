@@ -1,11 +1,11 @@
 {
-    "name": "stadbook",
-    "short_name": "stadbook",
+    "name": "Khasdar Krida Mahotsav - 2022",
+    "short_name": "Khasdar Krida Mahotsav",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Khasdar Krida Mahotsav - 2022",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
